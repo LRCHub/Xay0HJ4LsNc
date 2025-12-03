@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "しわあわせ",
+  "base_artist": "Vaundy",
+  "createdAt": "2025-12-03T10:47:29.414310Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "しわあわせ",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/01_しわあわせ_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "しわあわせ - Shiwaawase",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/02_しわあわせ_-_Shiwaawase_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "しわあわせ - Shiwaawase",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/03_しわあわせ_-_Shiwaawase_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "しわあわせ",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/04_しわあわせ_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "しわあわせ",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/05_しわあわせ_Vaundy.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shiwaawase 「しわあわせ」",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/06_Shiwaawase_「しわあわせ」_Vaundy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "しわあわせ",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_しわあわせ_Vaundy.txt"
+    }
+  ]
+}
